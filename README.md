@@ -8,7 +8,7 @@ Feel free to use this repostory fully or as a part of your own Hackitnosh build,
 
 ## Hardware
 - AMD Ryzen 5 2600
-- Sapphire Pulse Rx 5700
+- Sapphire Pulse RX 5700
 - ASUS Prime B450-Plus
 - 16 GB Corsair Vengeance (non-RGB)
 - Samsung Evo 860 250 GB
